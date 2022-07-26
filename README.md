@@ -1,2 +1,3 @@
-# .github
-The collective overview.
+# .Ground Collective
+
+We make simulations and visualisations.
