@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-We make simulations, visualisations, and custom software/hardware development.
+We are experts in data processing, visualisations, simulations, and custom software/hardware development.
