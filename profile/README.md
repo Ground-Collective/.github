@@ -1,3 +1,4 @@
-## Hi there 👋
+## Wavelet Space
 
-We are experts in data processing, visualisations, simulations, and custom software/hardware development.
+We are experts in digital data/signal processing, visualisations, simulations, and custom software/hardware development.
+      
