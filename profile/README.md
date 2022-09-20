@@ -1,4 +1,4 @@
-## WaveletSpace
+## Wavelet
 
 **We simulate and visualize complex systems.**
 
