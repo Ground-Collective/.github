@@ -1,4 +1,4 @@
 ## Wavelet
 
-**We analyse and simulate complex systems.**
+**We understand complex systems.**
 
