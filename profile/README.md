@@ -1,4 +1,4 @@
 ## Wavelet
 
-**We understand complex systems.**
+**We simplify complex systems.**
 
