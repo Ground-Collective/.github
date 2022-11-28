@@ -1,4 +1,4 @@
 ## Wavelet
 
-**We simplify complex systems.**
+**We simplify complexity.**
 
