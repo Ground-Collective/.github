@@ -2,5 +2,5 @@
 
 **We simplify complexity.**
 
-- Digital Signal Processing, Sensonr Networks, Computer Vision
+Expertise: signal processing, computer vision, quantitative data analytics, time-series analytics, geospatial analytics.
 
