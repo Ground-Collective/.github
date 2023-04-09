@@ -2,5 +2,5 @@
 
 **We simplify complexity.**
 
-Expertise: signal processing, computer vision, quantitative data analytics, time-series analytics, geospatial analytics.
+*signal processing*, *computer vision*, *quantitative analytics*, *time-series*, *geospatial analytics*.
 
