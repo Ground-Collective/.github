@@ -10,5 +10,5 @@ Wavelet.space is a group of developers and designers who act as a collective for
 
 |public|name|status|updated|description|
 |------|----|------|-------|-----------|
-|&check;|[ui](https://github.com/wavelet-space/ul)|active|unknown|Minimalistic web UI framework withwell crafted CSS, semantic HTML and custom JavaScript webcomponents and Python support
+|&check;|[ui](https://github.com/wavelet-space/ul)|active|unknown|Web UI framework with well crafted CSS, semantic HTML and custom JavaScript webcomponents and Python support.
 |&cross;|[ringen](https://github.com/wavelet-space/ringen)|active|unknown|Ringen is a minimalistic WSGI application framework.
