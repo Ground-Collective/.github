@@ -1,10 +1,10 @@
 ## Wavelet
 
-Wavelet.space is a group of developers and designers who act as a collective for work purposes.
+Wavelet.space is a group of thinkers, developers and designers who act as a collective for work purposes.
+
+**Keywords:** *cyber-physical systems*, *custom software development*, *process and workflof automation*, *signal analysis and processing*
 
 **We are open for collaboration!**
-
-**Keywords:** *custom software development*, *process and workflof automation*, *signal analysis and processing*, *time-series analysis*, *computer vision and machine learning*, *quantitative analytics*, *geospatial analytics*,  *robotics and embedded systems*
 
 ## Projects
 
