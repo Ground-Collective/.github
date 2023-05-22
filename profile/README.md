@@ -2,7 +2,7 @@
 
 Wavelet.space is a group of thinkers, developers and designers who act as a collective for work purposes.
 
-**Keywords:** *cyber-physical systems*, *custom software development*, *process and workflow automation*, *signal analysis and processing*
+**Keywords:** *software and hardware engineering*, *cyber-physical systems*,  *data analysis*, *signal processing*, *process and workflow automation* 
 
 **We are open for collaboration!**
 
