@@ -14,4 +14,4 @@ Wavelet.space is a group of thinkers, developers and designers who act as a coll
 |&cross;|[`ringen`](https://github.com/wavelet-space/ringen)|active|unknown|Ringen is a minimalistic WSGI application framework.
 |&cross;|[`circlet`](https://github.com/wavelet-space/circlet)|active|unknown|Distributed object database for Python.
 |&cross;|[`workspace`](https://github.com/wavelet-space/workspace)|active|unknown|The organizational and operational documents.
-|&check;|[`today`](https://github.com/wavelet-space/today|active|unkown|Display interesting data for the current day.
+|&check;|[`today`](https://github.com/wavelet-space/today)|active|unkown|Display interesting data for the current day.
