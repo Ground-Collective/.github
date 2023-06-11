@@ -11,7 +11,7 @@ Wavelet.space is a group of thinkers, developers and designers who act as a coll
 |public|name|status|updated|description|
 |------|----|------|-------|-----------|
 |&check;|[`ui`](https://github.com/wavelet-space/ui)|active|unknown|Web UI framework with well crafted CSS, semantic HTML and custom JavaScript webcomponents and Python support.
-|&cross;|[`ringen`](https://github.com/wavelet-space/ringen)|active|unknown|Ringen aka disruptor by LMAX 
+|&check;|[`ringen`](https://github.com/wavelet-space/ringen)|active|unknown|Ringen aka disruptor by LMAX 
 |&cross;|[`essence`](https://github.com/wavelet-space/essence)|active|unknown| is a minimalistic WSGI application framework.
 |&cross;|[`circlet`](https://github.com/wavelet-space/circlet)|active|unknown|Distributed object database for Python.
 |&cross;|[`workspace`](https://github.com/wavelet-space/workspace)|active|unknown|The organizational and operational documents.
