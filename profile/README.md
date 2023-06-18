@@ -10,7 +10,8 @@ Wavelet.space is a group of thinkers, developers and designers who act as a coll
 
 |public|name|status|updated|description|
 |------|----|------|-------|-----------|
-|&check;|[`ui`](https://github.com/wavelet-space/ui)|active|unknown|Web user interface framework
+|&check;|[`webui`](https://github.com/wavelet-space/webui)|active|unknown|HTML/CSS web user interface framework
+|&cross;|[`orloj`](https://github.com/wavelet-space/orloj)|active|unknown|Python workflow scheduler and manager
 |&check;|[`ringen`](https://github.com/wavelet-space/ringen)|active|unknown|C++ library implementing disruptor pattern
 |&check;|[`signal`](https://github.com/wavelet-space/signal)|active|unknown|C++ library  implementins immediate mode user interface
 |&cross;|[`essence`](https://github.com/wavelet-space/essence)|active|unknown|Python WSGI application framework
