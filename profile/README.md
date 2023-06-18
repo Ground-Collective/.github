@@ -8,14 +8,14 @@ Wavelet.space is a group of thinkers, developers and designers who act as a coll
 
 ## Projects
 
-|public|name|status|updated|description|
-|------|----|------|-------|-----------|
-|&check;|[`webui`](https://github.com/wavelet-space/webui)|active|unknown|HTML/CSS web user interface framework.
-|&cross;|[`orloj`](https://github.com/wavelet-space/orloj)|active|unknown|Python workflow scheduler and manager.
-|&check;|[`ringen`](https://github.com/wavelet-space/ringen)|active|unknown|C++ library implementing disruptor pattern.
-|&check;|[`signal`](https://github.com/wavelet-space/signal)|active|unknown|C++ library  implementins immediate mode user interface.
-|&cross;|[`essence`](https://github.com/wavelet-space/essence)|active|unknown|Python WSGI application framework.
-|&cross;|[`circlet`](https://github.com/wavelet-space/circlet)|active|unknown|Python distributed object database.
-|&cross;|[`workspace`](https://github.com/wavelet-space/workspace)|active|unknown|The organizational and operational documents.
-|&check;|[`today`](https://github.com/wavelet-space/today)|active|unknown|Display interesting data for the current day.
-|&check;|[`ground`](https://github.com/wavelet-space/ground)|actove|unknown|Game engine application and libraries.
+|#|public|name|status|updated|description|
+1|------|----|------|-------|-----------|
+2|&check;|[`webui`](https://github.com/wavelet-space/webui)|active|unknown|HTML/CSS web user interface framework.
+3|&cross;|[`orloj`](https://github.com/wavelet-space/orloj)|active|unknown|Python workflow scheduler and manager.
+4|&check;|[`ringen`](https://github.com/wavelet-space/ringen)|active|unknown|C++ library implementing disruptor pattern.
+5|&check;|[`signal`](https://github.com/wavelet-space/signal)|active|unknown|C++ library  implementins immediate mode user interface.
+6|&cross;|[`essence`](https://github.com/wavelet-space/essence)|active|unknown|Python WSGI application framework.
+7|&cross;|[`circlet`](https://github.com/wavelet-space/circlet)|active|unknown|Python distributed object database.
+8|&cross;|[`workspace`](https://github.com/wavelet-space/workspace)|active|unknown|The organizational and operational documents.
+9|&check;|[`today`](https://github.com/wavelet-space/today)|active|unknown|Display interesting data for the current day.
+10|&check;|[`ground`](https://github.com/wavelet-space/ground)|actove|unknown|Game engine application and libraries.
