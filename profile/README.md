@@ -1,8 +1,8 @@
 ## Wavelet
 
 Wavelet.space is a group of thinkers, developers and designers who act as a collective for work purposes.
-
-*cyber-physical systems*, *wearable-devices*, *human-computer interaction*, *software and hardware engineering*, *signal processing*, *process and workflow automation* 
+ 
+*serious games*, *simulations*, *complex systems*, *cyber-physical systems*, *distributed systems*, *human-computer interaction*, *software and hardware engineering*, *signal processing*, *process and workflow automation* 
 
 **We are open for collaboration!**
 
