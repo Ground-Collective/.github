@@ -18,5 +18,6 @@ Wavelet.space is a group of thinkers, developers and designers who act as a coll
 6|&cross;|[`circlet`](https://github.com/wavelet-space/circlet)|active|unknown|Python distributed object database.
 7|&cross;|[`workspace`](https://github.com/wavelet-space/workspace)|active|unknown|The organizational and operational documents.
 8|&check;|[`today`](https://github.com/wavelet-space/today)|active|unknown|Display interesting data for the current day.
-9|&check;|[`ground`](https://github.com/wavelet-space/ground)|actove|unknown|Game engine application and libraries.
+9|&check;|[`ground`](https://github.com/wavelet-space/ground)|active|unknown|Game engine application and libraries.
 10|&cross;|[`datty`](https://github.com/wavelet-space/datty)|active|unknown|Database inspection tool for PostgreSQL and SQLite
+11|&check;|[`wavelet-space.github.io`](https://github.com/wavelet-space/wavelet-space.github.io)|active|unknown|Website
