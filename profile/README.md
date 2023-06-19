@@ -24,3 +24,6 @@ Keywords: *serious games*, *simulations*, *complex systems*, *cyber-physical sys
 12|&cross;|[`pg`](https://github.com/wavelet-space/pg)|active|unknown|Generate project templates from JSON/YAML.
 13|&cross;|[`workspace`](https://github.com/wavelet-space/workspace)|active|unknown|Organization's workspace. 
 14|&check;|[`.github`](https://github.com/wavelet-space/.github)|active|unkown|The organization overview.
+15|&check;|[`sphinx-guide`](https://github.com/wavelet-space/sphinx-guide)|active|unkown|Sphinx guide.
+16|&check;|[`sphinx-theme`](https://github.com/wavelet-space/sphinx-theme)|active|unkown|Sphinx theme.
+17|&check;|[`sphinx-demo-js`](https://github.com/wavelet-space/sphinx-demo-js)|active|unkown|Sphinx JavaScript demo.
