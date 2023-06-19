@@ -1,4 +1,4 @@
-## Wavelet
+# Wavelet
 
 Wavelet.space is a group of thinkers, developers and designers who act as a collective for work purposes.
  
@@ -6,7 +6,8 @@ Keywords: *serious games*, *simulations*, *complex systems*, *cyber-physical sys
 
 **We are open for collaboration!**
 
-## Projects
+<details>
+<summary>Projects</summary>
 
 |#|public|name|status|updated|description|
 |-|------|----|------|-------|-----------|
@@ -29,3 +30,5 @@ Keywords: *serious games*, *simulations*, *complex systems*, *cyber-physical sys
 17|&check;|[`sphinx-demos`](https://github.com/wavelet-space/sphinx-demos)|active|unkown|Sphinx JavaScript demo.
 18|&cross;|[`dataflow`](https://github.com/wavelet-space/dataflow)|active|unkown|Dataflow programming in Python.
 19|&check;|[`datascience-template`](https://github.com/wavelet-space/datascience-template)
+
+</details>
