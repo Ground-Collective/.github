@@ -28,3 +28,4 @@ Keywords: *serious games*, *simulations*, *complex systems*, *cyber-physical sys
 16|&check;|[`sphinx-theme`](https://github.com/wavelet-space/sphinx-theme)|active|unkown|Sphinx theme.
 17|&check;|[`sphinx-demos`](https://github.com/wavelet-space/sphinx-demos)|active|unkown|Sphinx JavaScript demo.
 18|&cross;|[`dataflow`](https://github.com/wavelet-space/dataflow)|active|unkown|Dataflow programming in Python.
+19|&cross;|[`workspace`](https://github.com/wavelet-space/workspace)|active|unkown|Organization's management and konowledge base.
