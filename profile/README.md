@@ -11,7 +11,7 @@ Keywords: *serious games*, *simulations*, *complex systems*, *cyber-physical sys
 |#|public|name|status|updated|description|
 |-|------|----|------|-------|-----------|
 1|&check;|[`webui`](https://github.com/wavelet-space/webui)|active|unknown|HTML/CSS web user interface framework.
-2|&cross;|[`orloj`](https://github.com/wavelet-space/orloj)|active|unknown|Python workflow scheduler and manager.
+2|&cross;|[`workflow`](https://github.com/wavelet-space/workflow)|active|unknown|Python workflows scheduller and managmer.
 3|&check;|[`ringen`](https://github.com/wavelet-space/ringen)|active|unknown|C++ library implementing disruptor pattern.
 4|&check;|[`signal`](https://github.com/wavelet-space/signal)|active|unknown|C++ library  implementins immediate mode user interface.
 5|&cross;|[`essence`](https://github.com/wavelet-space/essence)|active|unknown|Python WSGI application framework.
@@ -27,4 +27,4 @@ Keywords: *serious games*, *simulations*, *complex systems*, *cyber-physical sys
 15|&check;|[`sphinx-guide`](https://github.com/wavelet-space/sphinx-guide)|active|unkown|Sphinx guide.
 16|&check;|[`sphinx-theme`](https://github.com/wavelet-space/sphinx-theme)|active|unkown|Sphinx theme.
 17|&check;|[`sphinx-demo-js`](https://github.com/wavelet-space/sphinx-demo-js)|active|unkown|Sphinx JavaScript demo.
-17|&cross;|[`dataflow`](https://github.com/wavelet-space/dataflow)|active|unkown|Dataflow programming in Python.
+18|&cross;|[`dataflow`](https://github.com/wavelet-space/dataflow)|active|unkown|Dataflow programming in Python.
