@@ -32,3 +32,12 @@ Keywords: *serious games*, *simulations*, *complex systems*, *cyber-physical sys
 19|&check;|[`datascience-template`](https://github.com/wavelet-space/datascience-template)
 
 </details>
+
+
+<details>
+<summary>Technology</summary>
+
+- C++, Go, Python
+- PostgreSQL, SQlite
+ 
+</details>
