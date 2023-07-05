@@ -2,7 +2,7 @@
 
 Wavelet.space is a group of thinkers, developers and designers who act as a collective for work purposes.
  
-Keywords: *software*, *firmware*, *hardware*, *robotics*, *embeded systems*, *distributed systems*, *dataflow and workflow*
+Keywords: *simulations*, *software/firmware/hardware*, *robotics*, *embeded systems*, *distributed systems*, *dataflow and workflow*
 
 **We are open for collaboration!**
 
