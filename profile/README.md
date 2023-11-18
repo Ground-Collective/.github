@@ -45,6 +45,7 @@ Keywords: *simulations*, *software/firmware/hardware*, *robotics*, *embeded syst
 | 32 | &cross; | [`wawe`](https://github.com/wavelet-space/wave)                                       | active | unknown |
 | 33 | &cross; | [`webui`](https://github.com/wavelet-space/webui)                                     | active | unknown |
 | 34 | &cross; | [`workflow`](https://github.com/wavelet-space/workflow)                               | active | unknown |
+| 35 | &cross; | [`chargemeup`](https://github.com/wavelet-space/chargemeup)                           | ative  | unknown |
 
 
 </details>
