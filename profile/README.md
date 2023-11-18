@@ -9,7 +9,7 @@ Keywords: *simulations*, *software/firmware/hardware*, *robotics*, *embeded syst
 <details>
 <summary>Projects</summary>
  
-| #  | public  | name                                                                                  | status | updated |
+| #  | Ready   | Name                                                                                  | Status | Updated |
 |----|---------|---------------------------------------------------------------------------------------|--------|---------|
 | 01 | &cross; | [`.github`](https://github.com/wavelet-space/.github)                                 | active | unknown |
 | 02 | &cross; | [`basis`](https://github.com/wavelet-space/basis)                                     | active | unknown |
