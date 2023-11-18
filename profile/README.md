@@ -1,6 +1,6 @@
 # Wavelet
 
-Wavelet.space is a group of thinkers and makers.
+Wavelet.space is a collective of makers.
  
 Keywords: *simulations*, *software/firmware/hardware*, *robotics*, *embeded systems*, *distributed systems*, *dataflow and workflow*
 
