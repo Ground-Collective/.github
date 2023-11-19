@@ -22,7 +22,7 @@ Keywords: *simulations*, *software/firmware/hardware*, *robotics*, *embeded syst
 | 09 | &cross; | [`engine`](https://github.com/wavelet-space/engine)                                   | active | unknown |
 | 10 | &cross; | [`games`](https://github.com/wavelet-space/games)                                     | active | unknown |
 | 11 | &cross; | [`karusel`](https://github.com/wavelet-space/karusel)                                 | active | unknown |
-| 12 | &cross; | [`medusa`](https://github.com/wavelet-space/workflow)                               | active | unknown |
+| 12 | &cross; | [`medusa`](https://github.com/wavelet-space/medusa)                                   | active | unknown |
 | 13 | &cross; | [`metro`](https://github.com/wavelet-space/metro)                                     | active | unknown |
 | 14 | &cross; | [`monarch`](https://github.com/wavelet-space/monarch)                                 | active | unknown |
 | 15 | &cross; | [`nabla`](https://github.com/wavelet-space/nabla)                                     | active | unknown |
