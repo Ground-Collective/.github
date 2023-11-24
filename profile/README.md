@@ -46,14 +46,4 @@ Keywords: *simulations*, *software/firmware/hardware*, *robotics*, *embeded syst
 | 33 | &cross; | [`wawe`](https://github.com/wavelet-space/wave)                                       | active | unknown |
 | 34 | &cross; | [`webui`](https://github.com/wavelet-space/webui)                                     | active | unknown |
 | 35 | &cross; | [`chargemeup`](https://github.com/wavelet-space/chargemeup)                           | ative  | unknown |
-
-</details>
-
-
-<details>
-<summary>Technology</summary>
-
-- C++, Go, Python
-- PostgreSQL, SQlite
- 
 </details>
