@@ -1,1 +1,3 @@
-# Wavelet's GitHub Profile 
+# Wavelet's GitHub public profile
+
+See ./profile/README.md
