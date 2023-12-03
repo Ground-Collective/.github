@@ -2,48 +2,7 @@
 
 Wavelet.space is a collective of makers.
  
-Keywords: *simulations*, *software/firmware/hardware*, *robotics*, *embeded systems*, *distributed systems*, *dataflow and workflow*
+Keywords: *simulation*, *visualisation*, *dataflow*, *workflow*,  *embedded systems*, *distributed systems* 
 
 **We are open for collaboration!**
 
-<details>
-<summary>Projects</summary>
- 
-| #  | Ready   | Name                                                                                  | Status | Updated |
-|----|---------|---------------------------------------------------------------------------------------|--------|---------|
-| 01 | &cross; | [`.github`](https://github.com/wavelet-space/.github)                                 | active | unknown |
-| 02 | &cross; | [`actions`](https://github.com/wavelet-space/actions)                                 | active | unknown |
-| 03 | &cross; | [`basis`](https://github.com/wavelet-space/basis)                                     | active | unknown |
-| 04 | &cross; | [`blast`](https://github.com/wavelet-space/blast)                                     | active | unknown |
-| 05 | &cross; | [`cache`](https://github.com/wavelet-space/cache)                                     | active | unknown |
-| 06 | &cross; | [`comet`](https://github.com/wavelet-space/comet)                                     | active | unknown |
-| 07 | &cross; | [`dataflow`](https://github.com/wavelet-space/dataflow)                               | active | unknown |
-| 08 | &cross; | [`delta`](https://github.com/wavelet-space/delta)                                     | active | unknown |
-| 09 | &cross; | [`engine`](https://github.com/wavelet-space/engine)                                   | active | unknown |
-| 10 | &cross; | [`games`](https://github.com/wavelet-space/games)                                     | active | unknown |
-| 11 | &cross; | [`karusel`](https://github.com/wavelet-space/karusel)                                 | active | unknown |
-| 12 | &cross; | [`medusa`](https://github.com/wavelet-space/medusa)                                   | active | unknown |
-| 13 | &cross; | [`metro`](https://github.com/wavelet-space/metro)                                     | active | unknown |
-| 14 | &cross; | [`monarch`](https://github.com/wavelet-space/monarch)                                 | active | unknown |
-| 15 | &cross; | [`nabla`](https://github.com/wavelet-space/nabla)                                     | active | unknown |
-| 16 | &cross; | [`oasis`](https://github.com/wavelet-space/oasis)                                     | active | unknown |
-| 17 | &cross; | [`psivino`](https://github.com/wavelet-space/psivino)                                 | active | unknown |
-| 18 | &cross; | [`queue`](https://github.com/wavelet-space/queue)                                     | active | unknown |
-| 19 | &cross; | [`radius`](https://github.com/wavelet-space/radius)                                   | active | unknown |
-| 20 | &cross; | [`result`](https://github.com/wavelet-space/result)                                   | active | unknown |
-| 21 | &cross; | [`ringen`](https://github.com/wavelet-space/ringen)                                   | active | unknown |
-| 21 | &cross; | [`sequel`](https://github.com/wavelet-space/sequel)                                   | active | unknown |
-| 23 | &cross; | [`signal`](https://github.com/wavelet-space/signal)                                   | active | unknown |
-| 24 | &cross; | [`space`](https://github.com/wavelet-space/space)                                     | active | unknown |
-| 25 | &cross; | [`sphinx`](https://github.com/wavelet-space/sphinx)                                   | active | unknown |
-| 26 | &cross; | [`table`](https://github.com/wavelet-space/table)                                     | active | unknown |
-| 27 | &cross; | [`tamplates`](https://github.com/wavelet-space/tamplates)                             | active | unknown |
-| 28 | &cross; | [`today`](https://github.com/wavelet-space/today)                                     | active | unknown |
-| 29 | &cross; | [`topos`](https://github.com/wavelet-space/topos)                                     | active | unknown |
-| 30 | &cross; | [`vault`](https://github.com/wavelet-space/vault)                                     | active | unknown |
-| 31 | &cross; | [`vision`](https://github.com/wavelet-space/vision)                                   | active | unknown |
-| 32 | &cross; | [`wavelet-space.github.io`](https://github.com/wavelet-space/wavelet-space.github.io) | active | unknown |
-| 33 | &cross; | [`wawe`](https://github.com/wavelet-space/wave)                                       | active | unknown |
-| 34 | &cross; | [`webui`](https://github.com/wavelet-space/webui)                                     | active | unknown |
-| 35 | &cross; | [`chargemeup`](https://github.com/wavelet-space/chargemeup)                           | ative  | unknown |
-</details>
